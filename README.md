@@ -66,4 +66,9 @@
   <br />
   <li><a href="https://marketplace.visualstudio.com/items?itemName=mangeshrex.uwu">UwU Theme</a></li>
   <img src="https://vscodethemes.com/e/mangeshrex.uwu/uwu-dark.svg?language=javascript" />
+
+  <br />
+  <br />
+  <li><a href="https://marketplace.visualstudio.com/items?itemName=Hermitter.oh-lucy-vscode">Oh Lucy</a></li>
+  <img src="https://raw.githubusercontent.com/hermitter/oh-lucy-vscode-theme/570972d6ce924542efda887512ee7fff6247b7ef/screenshot.jpg" />
 </ul>
