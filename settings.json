@@ -1,0 +1,103 @@
+{
+  "files.autoSave": "afterDelay",
+  "workbench.productIconTheme": "icons-octicons",
+  "workbench.startupEditor": "none",
+  "files.hotExit": "onExit",
+  "editor.formatOnSave": true,
+  "editor.minimap.enabled": false,
+  "workbench.list.smoothScrolling": true,
+  "editor.smoothScrolling": true,
+  "editor.suggestSelection": "first",
+  "security.workspace.trust.untrustedFiles": "open",
+  "explorer.compactFolders": false,
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "explorer.confirmDelete": false,
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.cursorBlinking": "expand",
+  "editor.cursorSmoothCaretAnimation": true,
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.cursorSurroundingLinesStyle": "all",
+  "editor.cursorWidth": 3,
+  "editor.suggest.preview": true,
+  "explorer.confirmDragAndDrop": false,
+  "editor.tabSize": 2,
+  "emmet.triggerExpansionOnTab": true,
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "discord.detailsDebugging": "🎉| Debugando: {file_name}",
+  "discord.detailsEditing": "📝| Editando: {file_name}",
+  "discord.largeImage": "{LANG}",
+  "discord.lowerDetailsDebugging": "📁| Debugando: {workspace}",
+  "discord.lowerDetailsEditing": "📁| Workspace: {workspace}",
+  "discord.lowerDetailsNoWorkspaceFound": "📁| Sem Workspace",
+  "editor.lineHeight": 28,
+  "editor.fontFamily": "Cascadia Code",
+  "editor.fontSize": 15,
+  "editor.fontLigatures": true,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "editor.tokenColorCustomizations": {
+    "textMateRules": [
+      {
+        "scope": [
+          "comment",
+          "keyword",
+          "storage.modifier",
+          "storage.type.class.js",
+          "storage.type.js"
+        ],
+        "settings": {
+          "fontStyle": "italic bold"
+        }
+      },
+      {
+        "scope": ["keyword.control.conditional", "keyword.operator"],
+        "settings": {
+          "fontStyle": ""
+        }
+      }
+    ]
+  },
+  "ruby.useBundler": true,
+  "ruby.useLanguageServer": false,
+  "ruby.lint": {
+    "rubocop": false
+  },
+  "ruby.codeCompletion": false,
+  "ruby.intellisense": false,
+  "ruby.format": false,
+  "[ruby]": {
+    "editor.formatOnSave": true,
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true
+  },
+  "files.trimTrailingWhitespace": true,
+  "files.insertFinalNewline": true,
+  "editor.rulers": [120],
+  "git.ignoreLegacyWarning": true,
+  "git.enableSmartCommit": true,
+  "git.autofetch": true,
+  "git.confirmSync": false,
+  "markdown-preview-enhanced.previewTheme": "atom-light.css",
+  "Lua.telemetry.enable": true,
+  "terminal.integrated.enableMultiLinePasteWarning": false,
+  "workbench.iconTheme": "moxer-icons",
+  "liveServer.settings.donotShowInfoMsg": true,
+  "workbench.colorTheme": "Copilot Theme",
+  "liveServer.settings.donotVerifyTags": true
+}
